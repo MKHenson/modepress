@@ -49,7 +49,7 @@
         "mailgun-js": "~0.7.15",
         "method-override": "~2.3.9",
         "modepress-api": "file:modepress-api",
-        "mongodb": "~2.2.30",
+        "mongodb": "~3.1.13",
         "morgan": "~1.8.2",
         "multiparty": "~4.1.3",
         "request": "~2.69.0",
